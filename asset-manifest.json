@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.02a4f837.chunk.css",
-    "main.js": "/static/js/main.86576681.chunk.js",
-    "main.js.map": "/static/js/main.86576681.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0a97d033.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0a97d033.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.16cab2f2.chunk.js": "/static/js/2.16cab2f2.chunk.js",
-    "static/js/2.16cab2f2.chunk.js.map": "/static/js/2.16cab2f2.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.02a4f837.chunk.css.map": "/static/css/main.02a4f837.chunk.css.map",
-    "static/js/2.16cab2f2.chunk.js.LICENSE.txt": "/static/js/2.16cab2f2.chunk.js.LICENSE.txt"
+    "main.css": "/react-weatherapp/static/css/main.02a4f837.chunk.css",
+    "main.js": "/react-weatherapp/static/js/main.86576681.chunk.js",
+    "main.js.map": "/react-weatherapp/static/js/main.86576681.chunk.js.map",
+    "runtime-main.js": "/react-weatherapp/static/js/runtime-main.39840f84.js",
+    "runtime-main.js.map": "/react-weatherapp/static/js/runtime-main.39840f84.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-weatherapp/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.16cab2f2.chunk.js": "/react-weatherapp/static/js/2.16cab2f2.chunk.js",
+    "static/js/2.16cab2f2.chunk.js.map": "/react-weatherapp/static/js/2.16cab2f2.chunk.js.map",
+    "index.html": "/react-weatherapp/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-weatherapp/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.02a4f837.chunk.css.map": "/react-weatherapp/static/css/main.02a4f837.chunk.css.map",
+    "static/js/2.16cab2f2.chunk.js.LICENSE.txt": "/react-weatherapp/static/js/2.16cab2f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a97d033.js",
+    "static/js/runtime-main.39840f84.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.16cab2f2.chunk.js",
     "static/css/main.02a4f837.chunk.css",
